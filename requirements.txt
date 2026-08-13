@@ -1,0 +1,8 @@
+torch>=2.2
+numpy
+pandas
+matplotlib
+ipywidgets
+gradio
+nbformat
+requests
