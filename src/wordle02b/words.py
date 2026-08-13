@@ -1,8 +1,7 @@
 """Word lists and vocabulary handling.
 
-The corpus ships with the repo (see data/official/) and comes from
-AlpinDale's wordle-solver project (MIT). It's the official-style Wordle
-vocabulary: ~12.9k legal guess words, ~2.3k of which are possible answers.
+The corpus ships with the repo (see data/official/): ~12.9k legal guess
+words, ~2.3k of which are possible answers.
 """
 from __future__ import annotations
 

@@ -75,7 +75,6 @@ scripts/              standalone data generation
 
 ## Credits
 
-- Word lists come from [AlpinDale/wordle-solver](https://github.com/AlpinDale/wordle-solver) (MIT), the official-style Wordle corpus: 12,972 legal guesses, 2,315 answers.
 - The model architecture is nanoGPT-style (Karpathy), trimmed to the 0.2B class.
 
 ## License
